@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(background.jpg);
+    background-position: center;
+    color: white;
+
+
+}
+#lolo{
+    background: rgba(255, 255, 255, .1);
+    backdrop-filter: blur(30px);
+}
+

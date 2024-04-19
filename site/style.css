@@ -1,0 +1,39 @@
+#img{
+    background:  linear-gradient( to right,#050505da ,#242424a7),url(hero.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 65vh;
+    
+}
+#ss{
+    font-family: "Playfair Display", serif;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+#btn{
+    margin-left: 400px;
+    margin-top: 30px;
+}
+.tt{
+    font-family: "Playfair Display", serif;
+    font-size: 40px;
+    color: rgb(71, 71, 71);
+}
+.you{
+    font-family: "Playfair Display", serif;
+    font-size: 40px;
+}
+.bb{
+    background: linear-gradient( to right,#050505f0 ,#fffefe43),url(law.avif);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+}
+.we{
+    font-family: "Playfair Display", serif;
+    font-size: 35px;
+    
+}
